@@ -1,0 +1,11 @@
+{
+    "commands": [
+      {
+        "name": "open-arc-extension",
+        "title": "Open Arc Extension and Paste Clipboard",
+        "description": "A script to open a specific Arc extension page and paste clipboard content",
+        "mode": "view",
+        "path": "dist/index.js"
+      }
+    ]
+  }
