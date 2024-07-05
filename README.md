@@ -1,2 +1,2 @@
-# raycast_format_json
-raycast的扩展插件
+# 打开arc浏览器json格式化工具
+# FeHelper 前端助手
